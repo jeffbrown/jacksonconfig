@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: jacksonconfig
+jackson:
+  property-naming-strategy: SNAKE_CASE
